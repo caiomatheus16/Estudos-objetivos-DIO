@@ -14,3 +14,6 @@ Introdução ao Git e ao GitHub✓
 Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso✓
 
 Dominando IDEs Java✓
+
+Variáveis, Tipos de Dados e Operadores Matemáticos em Java✓
+
