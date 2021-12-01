@@ -12,3 +12,5 @@ Aprenda o que São Estrutura de Dados e algoritmos✓
 Introdução ao Git e ao GitHub✓
 
 Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso✓
+
+Dominando IDEs Java✓
